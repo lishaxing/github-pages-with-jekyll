@@ -2,6 +2,7 @@
 
 Lisha Xing
 
+Lisha.JPG
 
 Social Media:
 1. Twitter
