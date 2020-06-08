@@ -1,7 +1,7 @@
 # Welcome to my blog
 
 Lisha Xing
-
+ 
 ![Lisha](https://github.com/lishaxing/github-pages-with-jekyll/blob/master/Lisha.jpg)
 
 Social Media:
