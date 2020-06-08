@@ -2,7 +2,7 @@
 
 Lisha Xing
 
-[Lisha]((https://lab.github.com/public/images/issue_tab.png)
+[Lisha](https://github.com/lishaxing/github-pages-with-jekyll/blob/master/Lisha.jpg)
 
 Social Media:
 1. [Twitter](https://twitter.com/explore)
