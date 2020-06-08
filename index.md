@@ -2,10 +2,11 @@
 
 Lisha Xing
 
+Lisha.jpg
 
 Social Media:
-1. Twitter
-2. Facebook
+1. Twitter: https://twitter.com/explore
+2. Facebook: https://www.facebook.com/
 
 Brag Sheet:
 1. I'm doing cheerleading
