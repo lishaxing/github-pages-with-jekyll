@@ -11,5 +11,6 @@ Social Media:
 2. [Instagram](https://www.instagram.com/lishaaxing/)
 
 Brag Sheet:
-1. I am a varsity cheerleader
-2. I have 2 cats
+1. I was a cheerleader for 5 years.
+2. I work at a Crepe restaurant.
+3. I like to go on hikes.
