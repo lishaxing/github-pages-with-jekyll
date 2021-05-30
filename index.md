@@ -2,7 +2,7 @@
 
 Lisha Xing
  
-![Lisha](https://github.com/lishaxing/github-pages-with-jekyll/blob/master/Lisha.JPG)
+![Lisha](https://github.com/lishaxing/github-pages-with-jekyll/blob/master/image0%20(6).jpeg)
 
 [Lisha](https://github.com/lishaxing/github-pages-with-jekyll/blob/master/Lisha.JPG)
 
