@@ -2,7 +2,7 @@
 
 Lisha Xing
  
-![lychee](lychee.jpg)
+![lisa](lisa.jpg)
 
 ![liha](liha.jpg)
 
