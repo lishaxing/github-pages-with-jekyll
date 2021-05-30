@@ -1,6 +1,6 @@
 # 🐼 hello.
 
-Lisha Xing
+I am Lisha Xing 🐼
  
 ![lisa](lisa.jpg)
 
