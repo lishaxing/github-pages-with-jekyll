@@ -4,7 +4,7 @@ Lisha Xing
  
 ![Lisha](https://github.com/lishaxing/github-pages-with-jekyll/blob/master/image0%20(6).jpeg)
 
-![lishie](https://github.com/lishaxing/github-pages-with-jekyll/blob/master/lishie.jpeg)
+![lishie](https://github.com/lishaxing/github-pages-with-jekyll/blob/e048591936db573e22cca5f69fd415990d1d0e62/lishie.jpeg)
 
 Social Media:
 1. [Twitter](https://twitter.com/LishaXing/)
